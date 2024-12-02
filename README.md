@@ -5,8 +5,8 @@ Install Node.js (v16 or later recommended).
 Install npm (comes with Node.js).
 
 2. Clone the Repository
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/rd2603/newTask.git
+cd newTask
 
 3. Install Dependencies
 npm install
